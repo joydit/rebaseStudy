@@ -4,3 +4,5 @@ b change 1
 
 change 1
 first commit a.txt
+change 2
+2 commit a.txt
